@@ -1,5 +1,6 @@
 # myFirstGithubRepo
 
-to show how git works 
+to show how git works
 
 Maybe it works perfectly. It's all about commiting and pushing to the repository.
+Now on feature 1a brunch.
